@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78554058855",
+    "project_id": "ihgfjj-id",
+    "storage_bucket": "ihgfjj-id.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78554058855:android:358f9a9fc5385b9ba584c2",
+        "android_client_info": {
+          "package_name": "com.cassi.loginfirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_QCanbYAZI9KrsOjDjE0tAohHidQ3IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

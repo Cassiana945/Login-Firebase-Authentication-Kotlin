@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Firebase Kotlin</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome Back User</string>
+    <string name="new_user">Hello new User</string>
+    <string name="is_user">Already registered? Login</string>
+    <string name="not_user">Not yet Registered? SignUp</string>
+</resources>
